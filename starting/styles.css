@@ -1,0 +1,161 @@
+/*html*/
+html{
+    background-color: #F5F4EF;
+    font-family: "Comfortaa";
+}
+
+p {
+    font-size: 15px;
+}
+
+h2{
+    font-size: 30px;
+    margin: 10px 0px;
+}
+
+/* Header */
+header {
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    color: #F5F4EF;
+    background-color: #5266A5;
+    z-index: 1;
+}
+
+header h1 {
+    font-size: 60px;
+    margin: 10px;
+    text-align: center;
+    font-family: "Oswald";
+    text-transform: uppercase;
+}
+
+/*Main*/
+main {
+    position: relative;
+    top: 110px;
+    color: #203F9E;
+    margin: 20px auto;
+    padding: 0px 160px;
+}
+
+p {
+    color: rgb(56, 55, 55);
+}
+
+.section {
+    border: solid 1px #203F9E;
+    padding: 10px;
+    margin: 10px;
+}
+
+.section-subtitle {
+    color: #203F9E;
+}
+/* Colors */
+.colors h2{
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.swatch{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    height: 100px;
+    line-height: 100px;
+    width: 31%;
+}
+
+.swatch p {
+    display: inline-block;
+    line-height: normal;
+    vertical-align: middle;
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+.orange{
+    display: inline-block;
+    background-color: #FF4F1D;
+}
+
+.yellow{
+    display: inline-block;
+    background-color: #FFC533;
+}
+
+.cyan{
+    display: inline-block;
+    background-color: #48EBFF;
+}
+
+.blue{
+    display: inline-block;
+    background-color: #3315E6;
+    clear: left;
+}
+
+.purple{
+    display: inline-block;
+    background-color: #8918E9;
+}
+
+.dark-blue{
+    display: inline-block;
+    background-color: #110B38;
+}
+
+
+/* Fonts */
+.fonts h2 {
+    margin-top: 0px;
+}
+
+.font-panel{
+    width: 45%;
+}
+
+.font-panel h3{
+}
+
+.oswald{
+    display: inline-block;
+    font-family: "Oswald";
+}
+.comfortaa{
+    display: inline-block;
+    font-family: "Comfortaa";
+}
+.source-code-pro{
+    display: inline-block;
+    font-family: "Source Code Pro";
+}
+
+/* Text */
+.text {
+    color: rgb(56, 55, 55);
+    font-size: 15px;
+}
+.text h1 {
+    font-family: "Oswald";
+    font-weight: 700;
+    font-size: 60px;
+    margin: 0px;
+}
+
+.text h2 {
+    font-family: "Comfortaa";
+    font-weight: 18px;
+    font-weight: 500;
+    margin: 0px;
+}
+
+
+
+
+
+
