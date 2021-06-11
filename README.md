@@ -12,7 +12,7 @@ To create this project, the followings technologies were used:
 - CSS
 
 ## Setup
-Use the browser of your computer
+Use any browser of your computer.
 
 ## Status
-This is an ongoing project
+This is an ongoing project.
